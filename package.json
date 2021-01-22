@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/defiAnalysis/goswap-sdk",
+  "repository": "https://github.com/defiAnalysis/myswap-sdk",
   "keywords": [
     "uniswap",
     "sushiswap",
